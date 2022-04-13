@@ -1,5 +1,4 @@
-# HeartFailurePrediction
-Heart Failure Prediction with using Random Forest 
+# Heart Failure Prediction with Using Random Forest
 
 About Dataset https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 
